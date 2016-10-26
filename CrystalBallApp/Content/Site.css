@@ -1,0 +1,31 @@
+﻿body {
+    background-image: url('../Images/CrystalBall2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#theButton{
+    margin-top:400px;
+    margin-left:520px;
+    }
+
+p#reply {
+    position:center;
+    color:black;
+    box-sizing:inherit;
+    margin-left:470px;   
+   }
+
+/* Set width on the form input elements since they're 100% wide by default 
+input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+
